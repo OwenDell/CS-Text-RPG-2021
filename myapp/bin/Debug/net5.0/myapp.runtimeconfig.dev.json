@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PyroDellz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PyroDellz\\.nuget\\packages"
+    ]
+  }
+}

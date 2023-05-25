@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsOKIufywoPcIWw66vu0yjTuw/xZQDbBm9RvgugOMjPnmTQMNqwyyiU6V0tE/ztSVq02PAcJzkg+wXmJZPg+lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PyroDellz\\Desktop\\Coding\\project\\myapp\\myapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PyroDellz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
