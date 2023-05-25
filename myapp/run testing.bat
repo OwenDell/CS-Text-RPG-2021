@@ -1,1 +1,0 @@
-start cmd dotnet run
