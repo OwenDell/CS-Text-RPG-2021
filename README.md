@@ -1,5 +1,6 @@
 # CS-Text-RPG-2021
 A simple, unfinished text-based RPG. One of the first programs I've ever written while learning how to code C# in 2021.
+You'll need .NET to actually play the game, if you have it then it should work by just running the run.bat file.
 
 I initially used this program as a sort of sandbox to play around with while learning C# (my first coding language). 
 It is pretty unmodular and relies too heavily on if-else statements, but I'm still pretty proud of it as my first go at really trying to make a large-scale functioning program.
